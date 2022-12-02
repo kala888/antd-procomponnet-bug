@@ -9,7 +9,13 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@ant-design/icons": "^4.7.0",
+    "@ant-design/pro-components": "^2.3.13",
+    "antd": "^4.23.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "react-dev-inspector": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
